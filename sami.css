@@ -1,0 +1,22 @@
+body{
+
+      background-color:#151b29 ;
+}
+h1{
+      color: aliceblue;
+      text-decoration: underline;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding: 20px;
+margin-left: 20px;
+font-size: 2em;
+}
+
+img{
+      width: 21%;
+      margin: calc(4%/3);
+      border-color: rgb(102, 102, 102);
+      border-radius: 20px;
+      border-style: solid;
+      border-width: 3px;
+}
+
